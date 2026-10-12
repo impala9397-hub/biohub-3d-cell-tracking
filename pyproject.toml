@@ -1,5 +1,5 @@
 [project]
-name = "kaggle-biohub-cell-tracking"
+name = "biohub-3d-cell-tracking"
 version = "1.0.0"
 description = "Our solution to the Kaggle competition 'Biohub - Cell Tracking During Development' (private LB 0.92649)"
 readme = "README.md"

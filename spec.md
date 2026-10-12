@@ -1,4 +1,4 @@
-# spec.md — kaggle-biohub-cell-tracking
+# spec.md — biohub-3d-cell-tracking
 
 Design document for this repository. Written before the code and docs, per the workspace rule
 (what and why → how → tasks).

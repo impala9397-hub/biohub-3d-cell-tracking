@@ -150,7 +150,7 @@ reading. Both times the holdout pointed the same way as the private leaderboard.
 
 ## 7. Code
 
-**Code:** https://github.com/impala9397-hub/kaggle-biohub-cell-tracking. It holds the builder, patch modules and
+**Code:** https://github.com/impala9397-hub/biohub-3d-cell-tracking. It holds the builder, patch modules and
 milestone recipes, the coordinate-head training script, CPU tests, figure scripts and all 158 of our submissions with
 public and private scores.
 `kaggle/fetch_base946.sh` downloads the base notebook and checks its hash, and
