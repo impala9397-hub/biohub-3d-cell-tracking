@@ -3,6 +3,7 @@
 Code and write-up of our entry to the Kaggle competition
 [Biohub – Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development)
 (June–September 2026).
+Kaggle solution write-up: [3D U-Net Node Transformer Ensemble with Coordinate Refinement and Graph Repair](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/writeups/3d-u-net-node-transformer-ensemble-with-coordinate).
 
 **The problem.** Each test video is a 3D + time light-sheet recording of a developing zebrafish embryo with
 fluorescent nuclei (100 frames of 64 x 256 x 256 voxels, 1.625 x 0.406 x 0.406 µm). A submission is a tracking graph:
@@ -128,7 +129,7 @@ this repository.
 ```text
 kaggle/        notebook builder, recipes and patch modules (see kaggle/README.md)
 coordhead/     training of our own coordinate-regression head
-docs/          method, results, lessons, a Kaggle write-up draft; figures; data/submissions.csv (all 158 submissions)
+docs/          method, results, lessons, the Kaggle write-up source; figures; data/submissions.csv (all 158 submissions)
 scripts/       figure generators
 tests/         CPU tests (synthetic; builder tests skip without the public base notebook)
 licenses/      full text of the Apache License 2.0 (for the code ported from public notebooks)
